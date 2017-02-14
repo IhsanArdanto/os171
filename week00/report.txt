@@ -1,0 +1,1 @@
+In Week00, The Task for Lab Operating System is to register Our Name to badak@cs.ui.ac.id by filling the form provided by assistant and creating repositories in github. After getting the confirmation that everything was alright, then we have to log in to badak@cs.ui.ac.id.
