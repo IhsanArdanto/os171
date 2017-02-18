@@ -1,0 +1,1 @@
+In this week Lab, I am introduced to concept and practice of Git, CLI, and Scripting. I also have to fulfill additional task of reporting 8 week of self-study about OS
