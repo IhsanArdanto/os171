@@ -20,3 +20,4 @@ drwxr-xr-x  2 ihsan.naufal41 StafCS 4096 Feb 14 14:40 week09
 drwxr-xr-x  2 ihsan.naufal41 StafCS 4096 Feb 14 14:40 week10
 drwxr-xr-x  2 ihsan.naufal41 StafCS 4096 Feb 14 14:40 xtra
 /home/fasilkom/mahasiswa/i/ihsan.naufal41/os171/week01
+Today is 18 Feb 2017 at 14:17:22
